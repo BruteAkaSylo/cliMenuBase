@@ -1,0 +1,9 @@
+c:\users\brute.desktop-pnjkt7u\source\repos\cliMenuBase\cliMenuBase\bin\Debug\cliMenuBase.exe.config
+c:\users\brute.desktop-pnjkt7u\source\repos\cliMenuBase\cliMenuBase\bin\Debug\cliMenuBase.exe
+c:\users\brute.desktop-pnjkt7u\source\repos\cliMenuBase\cliMenuBase\bin\Debug\cliMenuBase.pdb
+c:\users\brute.desktop-pnjkt7u\source\repos\cliMenuBase\cliMenuBase\obj\Debug\cliMenuBase.csprojAssemblyReference.cache
+c:\users\brute.desktop-pnjkt7u\source\repos\cliMenuBase\cliMenuBase\obj\Debug\cliMenuBase.csproj.CoreCompileInputs.cache
+c:\users\brute.desktop-pnjkt7u\source\repos\cliMenuBase\cliMenuBase\obj\Debug\cliMenuBase.exe
+c:\users\brute.desktop-pnjkt7u\source\repos\cliMenuBase\cliMenuBase\obj\Debug\cliMenuBase.pdb
+c:\users\brute.desktop-pnjkt7u\source\repos\cliMenuBase\cliMenuBase\bin\Debug\Colorful.Console.dll
+c:\users\brute.desktop-pnjkt7u\source\repos\cliMenuBase\cliMenuBase\obj\Debug\cliMenuBase.csproj.CopyComplete
